@@ -1,4 +1,4 @@
-# Prompts iniciales del ejercicio DB
+# Prompts mu del ejercicio DB
 
 ## 1) Traduccion de ERD a modelo Prisma
 Convierte este ERD (Company, Employee, Position, InterviewFlow, InterviewStep, InterviewType, Candidate, Application, Interview) a `schema.prisma` para PostgreSQL. Manten compatibilidad con el modelo existente de Candidate/Education/WorkExperience/Resume y anade relaciones bidireccionales.
